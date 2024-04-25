@@ -1,0 +1,17 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_shoppable-fashion">
+            <key name="detail_one_title" />
+            <key name="detail_one_content" />
+            <key name="detail_two_title" />
+            <key name="detail_two_content" />
+            <key name="detail_three_title" />
+            <key name="detail_three_content" />
+            <key name="detail_four_title" />
+            <key name="detail_four_content" />
+            <key name="memorials_caption_one" />
+            <key name="memorials_caption_two" />
+            <key name="memorials_caption_three" />
+        </key>
+    </admin-texts>
+</wpml-config>
